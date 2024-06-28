@@ -1,10 +1,5 @@
-Hi 👋 My name is Josh
+Hi My name is Josh
 =====================
+Not sure why you're here but make yourself at home :)
 
-A Front-End Developer with a passion of creating projects that provide meaningful information and experiences to all who seek!
-------------------------------------------------------------------------------------------------------------------------------
-
-Currently expanding my knowledge in React.js and Typescript while lurking the back-end realms of Node.js and Express.
-
-*   🌍  I'm based in Canada
-*   ✉️  You can contact me at [jbaek.dev@gmail.com](mailto:jbaek.dev@gmail.com)
+*   You can contact me at [jbaek.dev@gmail.com](mailto:jbaek.dev@gmail.com) and I may or may not reply.
